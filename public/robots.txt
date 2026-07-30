@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elite-coiffure-ashen.vercel.app/sitemap.xml
